@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+Aeolus:
+  title: Aeolus ADR35 (HN309)
+  description: О сфере применения грузовой шины Aeolus ADR35 нетрудно догадаться по ее названию, где две последние буквы обозначают drive и road. Данная модель предназначена для эксплуатации на ведущих осях грузовых автомобилей, передвигающихся по асфальтированным дорогам. На самом деле сфера ее применения может быть более широкой, благодаря открытому дизайну протекторного рисунка, допускающего эксплуатацию, в том числе, и на проселочных дорогах. Из других выгодных отличий этой шины стоит отметить привлекательную стоимость, топливную экономичность и продолжительный срок ее службы.
+  image_url: ADR35-HN309.jpg
+  price: 14190

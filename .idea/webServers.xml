@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b061dcba-6dc8-47b2-b7e3-b348edc5c02f" name="ruby" url="http://192.168.88.248:3000">
+        <fileTransfer host="192.168.88.248" port="22" rootFolder="/home/casper/test" accessType="SFTP" password="df93df99dfc1dfcedfe9df9adfd2" username="casper">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
